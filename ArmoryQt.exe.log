@@ -1,0 +1,142 @@
+(ERROR) ArmoryUtils.pyc:3747 - Unsupported language  specified. Defaulting to English (en)
+(ERROR) ArmoryUtils.pyc:3747 - Unsupported language  specified. Defaulting to English (en)
+(ERROR) ArmoryQt.py:1840 - Failed to setup SDM
+Traceback (most recent call last):
+  File "ArmoryQt.py", line 1835, in startBitcoindIfNecessary
+  File "SDM.pyc", line 188, in setupSDM
+BitcoindError: bitcoind not found
+(ERROR) ArmoryQt.py:1808 - Failed to start Armory database: Invalid blockdata path
+Traceback (most recent call last):
+  File "ArmoryQt.py", line 1793, in startArmoryDBIfNecessary
+  File "SDM.pyc", line 368, in spawnDB
+BadPath: Invalid blockdata path
+(ERROR) ArmoryUtils.pyc:3747 - Unsupported language  specified. Defaulting to English (en)
+(ERROR) ArmoryQt.py:5906 - Socket already in use.  Sent CLI args to existing proc.
+(ERROR) ArmoryQt.py:5907 - Exiting...
+(ERROR) ArmoryUtils.pyc:3747 - Unsupported language  specified. Defaulting to English (en)
+(ERROR) ArmoryQt.py:1840 - Failed to setup SDM
+Traceback (most recent call last):
+  File "ArmoryQt.py", line 1835, in startBitcoindIfNecessary
+  File "SDM.pyc", line 188, in setupSDM
+BitcoindError: bitcoind not found
+(WARNING) ArmoryQt.py:1804 - DB is already running
+(ERROR) BDM.pyc:199 - DB error: command checksum failure
+(ERROR) ArmoryUtils.pyc:3747 - Unsupported language  specified. Defaulting to English (en)
+(ERROR) ArmoryQt.py:1840 - Failed to setup SDM
+Traceback (most recent call last):
+  File "ArmoryQt.py", line 1835, in startBitcoindIfNecessary
+  File "SDM.pyc", line 188, in setupSDM
+BitcoindError: bitcoind not found
+(WARNING) ArmoryQt.py:1804 - DB is already running
+(ERROR) BDM.pyc:199 - DB error: command checksum failure
+(ERROR) ArmoryUtils.pyc:3747 - Unsupported language  specified. Defaulting to English (en)
+(ERROR) ArmoryQt.py:1840 - Failed to setup SDM
+Traceback (most recent call last):
+  File "ArmoryQt.py", line 1835, in startBitcoindIfNecessary
+  File "SDM.pyc", line 188, in setupSDM
+BitcoindError: bitcoind not found
+(WARNING) ArmoryQt.py:1804 - DB is already running
+(ERROR) BDM.pyc:199 - DB error: command checksum failure
+(ERROR) ArmoryUtils.pyc:3747 - Unsupported language  specified. Defaulting to English (en)
+(ERROR) ArmoryQt.py:1840 - Failed to setup SDM
+Traceback (most recent call last):
+  File "ArmoryQt.py", line 1835, in startBitcoindIfNecessary
+  File "SDM.pyc", line 188, in setupSDM
+BitcoindError: bitcoind not found
+(ERROR) ArmoryQt.py:1808 - Failed to start Armory database: Invalid blockdata path
+Traceback (most recent call last):
+  File "ArmoryQt.py", line 1793, in startArmoryDBIfNecessary
+  File "SDM.pyc", line 368, in spawnDB
+BadPath: Invalid blockdata path
+(ERROR) ArmoryUtils.pyc:3747 - Unsupported language  specified. Defaulting to English (en)
+(ERROR) BDM.pyc:275 - setSatoshiDir: directory does not exist: D:\AppDataRoamingBitcoin\database
+(ERROR) ArmoryQt.py:1840 - Failed to setup SDM
+Traceback (most recent call last):
+  File "ArmoryQt.py", line 1835, in startBitcoindIfNecessary
+  File "SDM.pyc", line 188, in setupSDM
+BitcoindError: bitcoind not found
+(ERROR) BDM.pyc:275 - setSatoshiDir: directory does not exist: D:\AppDataRoamingBitcoin\database
+(ERROR) ArmoryQt.py:1808 - Failed to start Armory database: Invalid blockdata path
+Traceback (most recent call last):
+  File "ArmoryQt.py", line 1793, in startArmoryDBIfNecessary
+  File "SDM.pyc", line 368, in spawnDB
+BadPath: Invalid blockdata path
+(ERROR) ArmoryUtils.pyc:3747 - Unsupported language  specified. Defaulting to English (en)
+(ERROR) ArmoryQt.py:1840 - Failed to setup SDM
+Traceback (most recent call last):
+  File "ArmoryQt.py", line 1835, in startBitcoindIfNecessary
+  File "SDM.pyc", line 188, in setupSDM
+BitcoindError: bitcoind not found
+(WARNING) SDM.pyc:396 - Spawning DB with command:./ArmoryDB.exe --db-type="DB_FULL" --cookie --satoshi-datadir="D:\AppDataRoamingBitcoin\blocks" --datadir="C:\Users\Administrator\AppData\Roaming\Armory\" --dbdir="C:\Users\Administrator\AppData\Roaming\Armory\databases"
+(ERROR) ArmoryUtils.pyc:3723 - Unsupported language  specified. Defaulting to English (en)
+(ERROR) ArmoryQt.py:1862 - Failed to setup SDM
+Traceback (most recent call last):
+  File "ArmoryQt.py", line 1857, in startBitcoindIfNecessary
+  File "SDM.pyc", line 190, in setupSDM
+BitcoindError: bitcoind not found
+(WARNING) SDM.pyc:398 - Spawning DB with command: D:\Armory\ArmoryDB.exe --db-type="DB_FULL" --cookie --satoshi-datadir="D:\AppDataRoamingBitcoin\blocks" --datadir="C:\Users\Administrator\AppData\Roaming\Armory\" --dbdir="C:\Users\Administrator\AppData\Roaming\Armory\databases"
+(ERROR) ArmoryUtils.pyc:3723 - Unsupported language  specified. Defaulting to English (en)
+(ERROR) ArmoryQt.py:1862 - Failed to setup SDM
+Traceback (most recent call last):
+  File "ArmoryQt.py", line 1857, in startBitcoindIfNecessary
+  File "SDM.pyc", line 190, in setupSDM
+BitcoindError: bitcoind not found
+(WARNING) SDM.pyc:398 - Spawning DB with command: D:\Armory\ArmoryDB.exe --db-type="DB_FULL" --cookie --satoshi-datadir="D:\AppDataRoamingBitcoin\blocks" --datadir="C:\Users\Administrator\AppData\Roaming\Armory\" --dbdir="C:\Users\Administrator\AppData\Roaming\Armory\databases"
+(ERROR) ArmoryUtils.pyc:1432 - Attempting to unserialize something not an ASCII block
+(ERROR) AsciiSerialize.pyc:74 - Expected str "TXSIGCOLLECT", got "071ae"
+(ERROR) ArmoryUtils.pyc:1432 - Attempting to unserialize something not an ASCII block
+(ERROR) AsciiSerialize.pyc:74 - Expected str "TXSIGCOLLECT", got "071ae"
+(ERROR) ArmoryUtils.pyc:3723 - Unsupported language  specified. Defaulting to English (en)
+(ERROR) ArmoryQt.py:1862 - Failed to setup SDM
+Traceback (most recent call last):
+  File "ArmoryQt.py", line 1857, in startBitcoindIfNecessary
+  File "SDM.pyc", line 190, in setupSDM
+BitcoindError: bitcoind not found
+(WARNING) SDM.pyc:398 - Spawning DB with command: D:\Armory\ArmoryDB.exe --db-type="DB_FULL" --cookie --satoshi-datadir="D:\AppDataRoamingBitcoin\blocks" --datadir="C:\Users\Administrator\AppData\Roaming\Armory\" --dbdir="C:\Users\Administrator\AppData\Roaming\Armory\databases"
+(WARNING) ArmoryQt.py:4111 - Called updateSyncProgress while not sync'ing
+(ERROR) ArmoryUtils.pyc:3723 - Unsupported language  specified. Defaulting to English (en)
+(ERROR) ArmoryQt.py:1862 - Failed to setup SDM
+Traceback (most recent call last):
+  File "ArmoryQt.py", line 1857, in startBitcoindIfNecessary
+  File "SDM.pyc", line 190, in setupSDM
+BitcoindError: bitcoind not found
+(WARNING) SDM.pyc:398 - Spawning DB with command: D:\Armory\ArmoryDB.exe --db-type="DB_FULL" --cookie --datadir="C:\Users\Administrator\AppData\Roaming\Armory\" --dbdir="C:\Users\Administrator\AppData\Roaming\Armory\databases"
+(ERROR) ArmoryUtils.pyc:3723 - Unsupported language  specified. Defaulting to English (en)
+(ERROR) BDM.pyc:268 - setSatoshiDir: directory does not exist: D:\AppDataRoamingBitcoin\database
+(ERROR) ArmoryQt.py:1862 - Failed to setup SDM
+Traceback (most recent call last):
+  File "ArmoryQt.py", line 1857, in startBitcoindIfNecessary
+  File "SDM.pyc", line 190, in setupSDM
+BitcoindError: bitcoind not found
+(ERROR) ArmoryUtils.pyc:3723 - Unsupported language  specified. Defaulting to English (en)
+(ERROR) BDM.pyc:268 - setSatoshiDir: directory does not exist: D:\AppDataRoamingBitcoin\database
+(ERROR) ArmoryQt.py:1862 - Failed to setup SDM
+Traceback (most recent call last):
+  File "ArmoryQt.py", line 1857, in startBitcoindIfNecessary
+  File "SDM.pyc", line 190, in setupSDM
+BitcoindError: bitcoind not found
+(ERROR) AsciiSerialize.pyc:74 - Expected str "TXSIGCOLLECT", got ""
+(ERROR) MultiSigDialogs.pyc:2154 - Error reading ASCII block
+Traceback (most recent call last):
+  File "ui\MultiSigDialogs.pyc", line 2152, in clickedDone
+  File "armoryengine\AsciiSerialize.pyc", line 75, in unserializeAscii
+UnserializeError: Unexpected BLKSTRING
+(ERROR) ArmoryUtils.pyc:3723 - Unsupported language  specified. Defaulting to English (en)
+(ERROR) BDM.pyc:268 - setSatoshiDir: directory does not exist: D:\AppDataRoamingBitcoin\database
+(ERROR) ArmoryQt.py:1862 - Failed to setup SDM
+Traceback (most recent call last):
+  File "ArmoryQt.py", line 1857, in startBitcoindIfNecessary
+  File "SDM.pyc", line 190, in setupSDM
+BitcoindError: bitcoind not found
+(ERROR) ArmoryUtils.pyc:3723 - Unsupported language  specified. Defaulting to English (en)
+(ERROR) ArmoryQt.py:1862 - Failed to setup SDM
+Traceback (most recent call last):
+  File "ArmoryQt.py", line 1857, in startBitcoindIfNecessary
+  File "SDM.pyc", line 190, in setupSDM
+BitcoindError: bitcoind not found
+(ERROR) ArmoryUtils.pyc:3723 - Unsupported language  specified. Defaulting to English (en)
+(ERROR) ArmoryQt.py:1862 - Failed to setup SDM
+Traceback (most recent call last):
+  File "ArmoryQt.py", line 1857, in startBitcoindIfNecessary
+  File "SDM.pyc", line 190, in setupSDM
+BitcoindError: bitcoind not found
